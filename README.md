@@ -3,6 +3,10 @@ PointGroup: Dual-Set Point Grouping for 3D Instance Segmentation (CVPR2020)
 
 **Reimplementation of PointGroup with different backbone(KPConv, DGCNN) for study purposes.**
 
+[Reimplementation Process Post](https://knowing.tistory.com/25)
+
+
+
 ## Model Architecture
 I used KPConv for Backbone, DGCNN for ScoreNet
 <img src="https://user-images.githubusercontent.com/78612464/134359495-0eede73f-c555-47c6-9ffc-2e047eaacc95.png" width="80%">
