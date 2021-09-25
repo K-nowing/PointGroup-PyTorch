@@ -1,6 +1,4 @@
 # PointGroup-PyTorch
-PointGroup: Dual-Set Point Grouping for 3D Instance Segmentation (CVPR2020)
-
 **Reimplementation of PointGroup with different backbone(KPConv, DGCNN) for study purposes.**
 
 [Reimplementation Process Post](https://knowing.tistory.com/25)
